@@ -7,7 +7,7 @@ package ro.amdesign.controls {
 	import flash.geom.*;
 
 	public class Scrollbar extends MovieClip {
-
+		// this is a test
 		private var target:MovieClip;
 		private var top:Number;
 		private var bottom:Number;
